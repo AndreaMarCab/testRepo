@@ -1,3 +1,5 @@
 Nombre: Andrea
 Nacionalidad: Españita
 Favorite food: Cookies
+Favorite land animal: Hedgehog
+Favorite aquatic animal: Seal
